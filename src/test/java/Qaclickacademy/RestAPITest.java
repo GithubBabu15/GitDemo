@@ -14,17 +14,27 @@ public class RestAPITest
 		System.out.println("postJira5");
 		System.out.println("postJira6");
 		System.out.println("postJira7");
+		System.out.println("postJira8");
 	}
 	
 	@Test
 	public void deleteTwitter()
 	{
 		System.out.println("deleteTwitter");
+		System.out.println("deleteTwitter");
 	}
 	
 	@Test
 	public void deleteTwitter12()
 	{
+		System.out.println("deleteTwitter");
+		System.out.println("deleteTwitter");
+	}
+	
+	@Test
+	public void deleteTwitter13()
+	{
+		System.out.println("deleteTwitter");
 		System.out.println("deleteTwitter");
 	}
 }
